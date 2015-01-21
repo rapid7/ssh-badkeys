@@ -1,0 +1,8 @@
+---
+:port: 22
+:user: sync
+:references:
+- :url: http://packetstormsecurity.com/files/125761/Array-Networks-vxAG-xAPV-Privilege-Escalation.html
+- :osvdb: 104652
+- :osvdb: 104653
+- :osvdb: 104654
