@@ -1,0 +1,5 @@
+---
+:port: 22
+:user: root
+:references:
+- :url: http://packetstormsecurity.com/files/125754/Loadbalancer.org-Enterprise-VA-7.5.2-Static-SSH-Key.html

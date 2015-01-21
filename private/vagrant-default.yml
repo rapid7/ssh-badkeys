@@ -1,0 +1,5 @@
+---
+:port: 22
+:user: root
+:references:
+- :url: https://github.com/mitchellh/vagrant/tree/master/keys

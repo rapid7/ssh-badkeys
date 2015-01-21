@@ -1,0 +1,5 @@
+---
+:port: 22
+:user: root
+:references:
+- :url: http://packetstormsecurity.com/files/125755/quantum-root.txt
