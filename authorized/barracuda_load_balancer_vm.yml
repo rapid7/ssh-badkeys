@@ -1,0 +1,7 @@
+---
+:port: 8002
+:user: cluster
+:references:
+- :url: http://seclists.org/fulldisclosure/2015/Jan/76
+- :url: https://github.com/cmaruti/reports/raw/master/barracuda_load_balancer_vm.pdf
+- :cve: 2014-8428
