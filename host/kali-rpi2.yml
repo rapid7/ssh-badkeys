@@ -1,0 +1,4 @@
+---
+:port: 22
+:references:
+- :url: http://docs.kali.org/armel-armhf/install-kali-linux-arm-raspberry-pi
