@@ -6,6 +6,7 @@ Keys are split into two categories; authorized keys and host keys. The authorize
 
 This collection depends on submissions from researchers to stay relevant. If you are aware of a static key (host or authorized), please open an [Issue](https://github.com/rapid7/ssh-badkeys/issues) or submit a Pull Request. The [Issues](https://github.com/rapid7/ssh-badkeys/issues) list also contains a wishlist of known bad keys that we would like to include.
 
+For additional key types and a broader scope, take a look at the [Kompromat](https://github.com/BenBE/kompromat) project.
 
 
 
