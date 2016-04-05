@@ -1,0 +1,5 @@
+---
+:port: 22
+:references:
+- :url: https://pierrekim.github.io/blog/2016-04-04-quanta-lte-routers-vulnerabilities.html#hardcoded-ssh-server-key
+- :url: https://pierrekim.github.io/advisories/2016-quanta-0x00.txt
