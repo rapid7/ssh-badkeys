@@ -1,0 +1,5 @@
+---
+:port: 22
+:references:
+- :url: https://github.com/Diodes-Delight/piunora-raspberrypi-os-image/issues/2
+- :url: https://github.com/Diodes-Delight/piunora-raspberrypi-os-image/releases/tag/2021_11_24-bullseye
