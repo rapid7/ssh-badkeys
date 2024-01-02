@@ -1,0 +1,16 @@
+---
+info:
+  title: Ssh Badkeys
+  description: A collection of static SSH keys (public and private) that have made
+    their way into software and hardware products.
+  x-cortex-git:
+    github:
+      alias: r7org
+      repository: rapid7/ssh-badkeys
+  x-cortex-tag: ssh-badkeys
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: metasploit
+openapi: 3.0.1
+servers:
+- url: "/"
